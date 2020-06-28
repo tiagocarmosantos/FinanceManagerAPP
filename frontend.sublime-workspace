@@ -1,0 +1,574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ad",
+				"addError"
+			],
+			[
+				"re",
+				"refresh"
+			],
+			[
+				"dele",
+				"deleteURL"
+			],
+			[
+				"f",
+				"fun\tFunction"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"RESPOS",
+				"RESPOSTA"
+			],
+			[
+				"WHE",
+				"WHERE"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"get",
+				"getSummary"
+			],
+			[
+				"bill",
+				"billingCycleService"
+			],
+			[
+				"bil",
+				"billingCycleSchema"
+			],
+			[
+				"ctx",
+				"ctxG"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"conato",
+				"contatos"
+			],
+			[
+				"contat",
+				"contato"
+			],
+			[
+				"calcu",
+				"calcularImposto"
+			],
+			[
+				"conta",
+				"contato"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sa",
+				"_saveContato"
+			],
+			[
+				"bs",
+				"bs3-carousel\tbs3-carousel"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"lista",
+				"ListaTelefonica"
+			],
+			[
+				"Lis",
+				"ListaTelefonica"
+			],
+			[
+				"an",
+				"angularjs"
+			],
+			[
+				"LIsta",
+				"ListaTelefonica"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Tiago/PENDENCIAS/ANALISE_ANULA_NOTAS_TO_RELIGACAO/Script_WebReport.sql",
+		"/D/Tiago/PENDENCIAS/ANALISE_ANULA_NOTAS_TO_RELIGACAO/Script_WebReport",
+		"/D/Users/CLB151750/Desktop/ANALISE_ANULA_NOTAS_TO_RELIGACAO/CR'S - LAYOuTE ANULA NOTA.csv",
+		"/D/Users/CLB151750/Desktop/ANALISE_ANULA_NOTAS_TO_RELIGACAO/CR'S - LAYOuTE ANULA NOTA.xlsx",
+		"/D/Users/CLB151750/Desktop/20180305_ANALISE_DCC/Script_Temp.sql",
+		"/D/Users/CLB151750/Desktop/Atividade_201801/Tarifa Branca/Update_GTB.sql",
+		"/D/Users/CLB151750/Desktop/Atividade_201801/Tarifa Branca/SCRIPT_GTB_TEMP.sql",
+		"/D/Users/CLB151750/Desktop/Atividade_201801/Tarifa Branca/Script_GTB_Duplicidade.sql",
+		"/D/Users/CLB151750/Desktop/20180305_GTB_DELETE/Script_Tarifa_Branca.sql",
+		"/D/Users/CLB151750/Desktop/Atividade_201801/Fiscalizacao/Analise/20180228/Script_Analise.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Fiscalizacao - FISC/2 - Analise de Projeto/01 - Banco de Dados/Scripts/Script_Update.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Fiscalizacao - FISC/2 - Analise de Projeto/01 - Banco de Dados/Scripts/Script_Query.sql",
+		"/D/Users/CLB151750/Desktop/3_PROCEDURES_OWNER.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/PROCEDURES/MERGED/PROCEDURES_OWNER.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/PROCEDURES/MERGED/PROCEDURES.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/PROCEDURES/MERGED/PROCEDURES.prc",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/SEQUENCES/MERGED/SEQUENCES_OWNER.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/SEQUENCES/MERGED/SEQUENCES.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/TABLES/DDL/MERGED/TABLES_DDL_OWNER.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/TABLES/DDL AND DML/MERGED/TABLES_DDL_DML_OWNER.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/TABLES/DDL AND DML/MERGED/TABLES_DDL_DML.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/TABLES/DDL/MERGED/TABLES_DDL.sql",
+		"/D/Users/CLB151750/Desktop/WebDev/TW/Segunda opção/Documentação/Leia-me.txt",
+		"/D/Users/CLB151750/Desktop/2 - SEQUENCES.sql",
+		"/D/Users/CLB151750/Desktop/1 - TABLES_DDL_DML.sql",
+		"/D/Users/CLB151750/Desktop/SCRIPT/SEQUENCES/MERGED/SEQUENCES.sql",
+		"/D/Users/CLB151750/Desktop/SCRIPT/PROCEDURES/MERGED/PROCEDURES.prc",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/PROCEDURES/01 - NEORPTFARADM.DEL_RPT_ACESSO.prc",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/TABLES/DDL/01 - NEORPTFARADM.RPT_ACESSO.sql",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/WebReport/SCRIPT/SEQUENCES/01 - NEORPTFARADM.SEQ_ID_ACAO.sql",
+		"/D/Users/CLB151750/Desktop/NEORPTFARADM_SCRIPT/SEQUENCES/NEORPTFARADM.SEQ_ID_ACAO.sql",
+		"/D/Tiago/SVN_TIAGO/ReportFAR/trunk/ReportFAR_WEB/Visualiza/DefaultVisualiza.aspx.cs",
+		"//brneo618/FRMS/Projetos de Sistemas/Elektro/GCA/NEORPTFARADM_SCRIPT/PROCEDURES/NEORPTFARADM.DEL_RPT_ACESSO.prc",
+		"/D/Users/CLB151750/Desktop/NEORPTFARADM/TABLES/DDL/NEORPTFARADM.SEG_LOG_ACESSO.sql",
+		"/D/Users/CLB151750/Desktop/NEORPTFARADM/PROCEDURES/NEORPTFARADM.INS_RPT_CONEXAO.prc",
+		"/D/Users/CLB151750/Desktop/Script_Temp.sql",
+		"/D/Users/CLB151750/Desktop/SCRIPTS_RPT_TABLES_DDL/DDL AND DML/NEORPTFARADM.RPT_ACESSO_RELATORIO.sql",
+		"/D/Users/CLB151750/Desktop/SCRIPTS_RPT_TABLES_DDL/DDL/NEORPTFARADM.RPT_ACESSO_RELATORIO.sql",
+		"/D/Users/CLB151750/Desktop/SCRIPTS_RPT_TABLES_DDL/DDL/NEORPTFARADM.RPT_ACESSO.sql",
+		"/L/BCOBACK/20180207/CV07020001.389",
+		"/L/BCOBACK/20180207/DA07020001.389",
+		"/L/BCOBACK/20180219/CV17020001.389",
+		"/L/BCOBACK/20180219/DA17020001.389",
+		"/D/Users/CLB151750/Desktop/Script_Temp_CTR.sql",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/billingcycle/billingCycleCtrl.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/billingcycle/form.html",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/billingcycle/list.html",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/billingcycle/tabs.html",
+		"/D/Users/CLB151750/Desktop/WebDev/Angular_Test/lib/angular/ngComponents/ngTable-mobile/mobileNgTable.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/common/factories/tabsFactory.js",
+		"/D/Users/CLB151750/AppData/Local/Google/Chrome/User Data/SwReporter/25.140.201/manifest.fingerprint",
+		"/D/Users/CLB151750/AppData/Local/Google/Chrome/User Data/SwReporter/25.140.201/manifest.json",
+		"/D/Users/CLB151750/Desktop/AUDITORIA_SCHEMAS/AUDITORIA_SCHEMAS.sql",
+		"/D/Users/CLB151750/Desktop/AUDITORIA_SCHEMAS.sql",
+		"/D/Users/CLB151750/Desktop/Atividade_201801/Script_Saldo_Contrato_Celpe.sql",
+		"/D/Tiago/PENDENCIAS/Script_COB_Canal_Eletronico.sql",
+		"/D/Users/CLB151750/Desktop/201801_DCC_COSERN.txt",
+		"/D/Users/CLB151750/Desktop/TEMP.SQL",
+		"/D/Users/CLB151750/Desktop/Atividade_201801/Fiscalizacao/Analise/20171207/Script_Update_Fiscalizacao.sql",
+		"/D/Users/CLB151750/Desktop/Atividade_201801/Fiscalizacao/Analise/20171207/SCRIPT_TEMP.sql",
+		"/D/Users/CLB151750/Desktop/Atividade_201801/Fiscalizacao/Analise/20171207/Script_Fiscalizacao_Temp.sql",
+		"/D/Users/CLB151750/Desktop/SAGA - Curso GRÁTIS",
+		"/D/Users/CLB151750/Desktop/WebDev/Angular_Test/offline.appcache",
+		"/D/Users/CLB151750/Desktop/WebDev/Angular_Test/index.html",
+		"/D/Users/CLB151750/Desktop/WebDev/Angular_Test/js/interceptors/timeStampInterceptor.js",
+		"//brneo618/FRMS/Projetos de Sistemas/Tarifa Branca/2 - Analise de Projeto/01 - Banco de Dados/Scripts/Script_Procedure.sql",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/gulpfile.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/gulpTasks/deps.js",
+		"/D/Users/CLB151750/Desktop/Atividade_201801/Tarifa Branca/temp",
+		"/D/Tiago/PENDENCIAS/COB_INTERNET_BANKING_ITAU/SCRIPT_BANCO_ITAU.sql",
+		"//brneo618/USUARIOS_EXTERNOS/COBRANCA/COELBA/Pagamento_20180129.txt",
+		"/D/Tiago/PENDENCIAS/20171122_Notificador/Script_Notificador.sql",
+		"/D/Tiago/PENDENCIAS/SCRIPT_TEMP.sql",
+		"/D/Tiago/PENDENCIAS/Query_DCC_COB.sql",
+		"/D/Users/CLB151750/Desktop/WebDev/Angular_Test/js/filters/ellipsisFilter.js",
+		"/D/Users/CLB151750/Desktop/WebDev/Angular_Test/js/filters/nameFilter.js",
+		"/D/Users/CLB151750/Desktop/WebDev/Angular_Test/js/controllers/ListaTelefonicaCtrl.js",
+		"/D/Users/CLB151750/Desktop/WebDev/Angular_Test/js/controllers/DetalhesContatoCtrl.js",
+		"/D/Users/CLB151750/Desktop/WebDev/Angular_Test/js/controllers/NovoContatoCtrl.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/backend/api/billingCycle/billingCycleService.js",
+		"/D/Tiago/SVN_TIAGO/Fiscalizacao/branches/MVC/Controllers/Fiscalizacao/FiscalizacaoController.cs",
+		"/D/Tiago/SVN_TIAGO/Fiscalizacao/branches/MVC/Views/Fiscalizacao/FiscalizacaoModal.cshtml",
+		"/L/REMESSA/INTERMEDIUM/ENVIADO/DCC_00004101.OLD",
+		"/L/REMESSA/INTERMEDIUM/ENVIADO/DCC_00002601.OLD",
+		"/D/Users/CLB151750/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/CZMFZDPC/DCC_00004101.OLD",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/template/template-custom.css",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/index.html",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/template/header.html",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/template/menu.html",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/template/footer.html",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/dashboard/dashboard.html",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/index.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/config/routes.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/dashboard/dashboardController.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/common/components/valueBox.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/common/factories/gridSystemFactory.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/app/common/components/contentHeader.js",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/npm-debug.log",
+		"/D/Users/CLB151750/Desktop/WebDev/MeanJS/CursoFramesWeb/frontend/npm-debug.log.2679794751",
+		"/D/Users/CLB151750/Desktop/WebDev/Fiscalizacao/Scripts/Fiscalizacao/values/configValue.js",
+		"//brneo618/UTI_COSERN/INPUT/BAML/PROCESSADOS/bamlCollection-H2H-1306-10843019-20180122-02.ret",
+		"//brneo618/UTI_COSERN/INPUT/BAML/bamlCollection-H2H-1306-10843019-20180123-02.ret",
+		"/M/ARC/RET_PROC/20171220/PROC.BSP_RET_DD_001_20171220_01.20171220.133000",
+		"/M/ARC/RET_PROC/20171220/PROC.BSP_RET_DD_001_20171220_02.20171220.133000",
+		"/M/ARC/RET_PROC/20171220/PROC.BSP_RET_DD_001_20171220_03.20171220.133000",
+		"/M/ARC/RET_PROC/20171220/PROC.BSP_RET_DD_001_20171220_04.20171220.133000",
+		"/M/ARC/RET_PROC/20171220/PROC.BSP_RET_DD_001_20171220_05.20171220.133000",
+		"/M/ARC/RET_PROC/20171220/PROC.BSP_RET_DD_001_20171220_06.20171220.133000",
+		"/M/ARC/RET_PROC/20171220/PROC.BSP_RET_DD_001_20171220_07.20171220.133000",
+		"/M/ARC/RET_PROC/20171220/PROC.BSP_RET_DD_001_20171220_08.20171220.133000",
+		"/M/ARC/RET_PROC/20171220/PROC.BSP_RET_DD_001_20171220_09.20171220.133000",
+		"/M/ARC/RET_PROC/20171219/PROC.BSP_RET_DD_077_20171219_01.20171219.133011",
+		"/M/ARC/RET_PROC/20171219/PROC.BSP_RET_DD_001_20171219_03.20171219.133011",
+		"/M/ARC/RET_PROC/20171219/PROC.BSP_RET_DD_001_20171219_04.20171219.133011",
+		"/M/ARC/RET_PROC/20171219/PROC.BSP_RET_DD_001_20171219_05.20171219.133011",
+		"/M/ARC/RET_PROC/20171219/PROC.BSP_RET_DD_001_20171219_06.20171219.133011",
+		"/M/ARC/RET_PROC/20171219/PROC.BSP_RET_DD_001_20171219_07.20171219.133011",
+		"/M/ARC/RET_PROC/20171219/PROC.BSP_RET_DD_001_20171219_08.20171219.133011",
+		"/M/ARC/RET_PROC/20171219/PROC.BSP_RET_DD_001_20171219_09.20171219.133011",
+		"/M/ARC/RET_PROC/20171219/PROC.BSP_RET_DD_001_20171219_02.20171219.133011",
+		"/L/BCOBACK/20180115/DD150101.077",
+		"/L/BCOBACK/20180111/DD110101.077",
+		"/L/BCOBACK/20180110/DD100101.077",
+		"/L/BCOBACK/20180109/DD090101.077",
+		"/L/BCOBACK/20180117/DD170101.077",
+		"/L/BCOBACK/20180118/DD180101.077",
+		"/L/DUPLICADOS/20180117/CB170101.077",
+		"/D/Users/CLB151750/Desktop/WebDev/PWA_Test/work/service-worker.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"",
+			"dashboardController.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"USUARIO",
+			"TB_SEG_USUARIO",
+			"TB_USUARIO",
+			"GRANT EXECUTE ON ",
+			"NEORPTFARADM_EKT",
+			"DELETE FROM ",
+			"PROCEDURE ",
+			"PROCEDURE",
+			"UPDATE ON ",
+			"ALTER TABLE ",
+			"CREATE TABLE ",
+			"Insert into ",
+			"UPDATE ON ",
+			"ALTER TABLE ",
+			"CREATE TABLE ",
+			"GRANT SELECT ON ",
+			"CREATE SEQUENCE ",
+			"NEORPTFARUSR_EKT",
+			"NEXTVAL",
+			"SEQ_",
+			"SEQ_ID_ACESSO_RELATORIO",
+			"NEORPTFARUSR",
+			" ViewBag.ListaEstados",
+			"7034179918",
+			"fail",
+			"FAIL",
+			"7035943000",
+			"7038042151",
+			"7034179918",
+			"self",
+			"ClickAbaQuestionario",
+			".tab",
+			"tab",
+			"cacheName",
+			"AUTGADM",
+			"UPDT_BRANCA_CLIENTE",
+			"AUTGADM",
+			"DEL_BRANCA_MEDIDOR",
+			"AUTGADM",
+			"DEL_BRANCA_CONTRATO",
+			"UPDT_BRANCA_TARIFA",
+			"UPDT_BRANCA_ENCARGOS_VIGENCIAS",
+			"UPDT_BRANCA_CLIENTE",
+			"HAB_BRANCA_MEDIDOR",
+			"DEL_BRANCA_MEDIDOR",
+			"CLB229628-BA",
+			"pc-tiago",
+			"imprimirHTML",
+			"TB_BRANCA_CONTRATO",
+			".ico",
+			"offline.appcache",
+			"'http://localhost/angulartest",
+			"A.",
+			"AUTGADM.",
+			"TB_BRANCA_MEDIDOR",
+			"NUMERO_SOLICITACAO",
+			"TB_BRANCA_MEDIDOR",
+			"tarifa",
+			"framework",
+			"GCC",
+			"AUTGADM",
+			"gcc",
+			"autgadm",
+			"BEGIN",
+			"VAR_COUNT",
+			"ID_BRANCA_MEDIDOR",
+			"SCRIPT TABELAS RELACIONADAS",
+			"SCRIPT TABELAS DOMINIO",
+			"Autogeradores",
+			"Banco",
+			"Funcionou",
+			"favicon",
+			"7018350348",
+			"4012298400",
+			"7018350348",
+			"4007312267",
+			"4012298400",
+			"service",
+			"android-drawer",
+			"mdl-layout__drawer",
+			"android-logo-image",
+			"images",
+			"erro",
+			"HAB",
+			"GCC",
+			"GC",
+			"GCC",
+			"GER_TB_FISC_STATUS_CONCLUIDA",
+			"INS_TB_FISC_FISCA_STATUS",
+			"UPD_TB_FISC_TIPO_FISCA_UNIDADE",
+			"UPD_TB_FISC_TIPO_FISCALIZACAO",
+			"UPD_TB_FISC_STATUS",
+			"INS_TB_FISC_TIPO_FISCA_UNIDADE",
+			"INS_TB_FISC_TIPO_FISCALIZACAO",
+			"INS_TB_FISC_STATUS",
+			"INS_TB_FISC_INCONFORMIDADE",
+			"INS_TB_FISC_FISCALIZACAO",
+			"GER_TB_FISC_INCONFORMIDADE",
+			"GER_TB_FISC_FISCALIZACAO",
+			"GER_TB_FISC_STATUS_CONCLUIDA",
+			"INS_TB_FISC_FISCA_STATUS",
+			"GER_TB_FISC_STATUS_CONCLUIDA",
+			"GER_TB_FISC_INCONFORMIDADE",
+			"GER_TB_FISC_FISCALIZACAO",
+			"INS_TB_FISC_FISCA_STATUS",
+			"DEL_TB_FISC_TIPO_FISCA_UNIDADE",
+			"DEL_TB_FISC_TIPO_FISCALIZACAO",
+			"DEL_TB_FISC_STATUS",
+			"INS_TB_FISC_FISCA_STATUS",
+			"\t\n",
+			"GCC",
+			"GCC.",
+			"FISC_ADM",
+			"GCC",
+			"TB_FISC_STATUS",
+			"TB_FISC_TIPO_FISCALIZACAO",
+			"FISC_STATUS",
+			"ObterContratoCredenciado",
+			"406000608",
+			"65410600",
+			"65410",
+			"6541060012",
+			"$filter",
+			"F02",
+			"F01",
+			"functionLimitPerPage",
+			"A203502099000975ACE02",
+			"exportadorAPI"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GRANT EXECUTE ON NEORPTFARADM_EKT.",
+			"DELETE FROM NEORPTFARADM_EKT.",
+			"PROCEDURE NEORPTFARADM_EKT.",
+			"UPDATE ON NEORPTFARADM_EKT.",
+			"ALTER TABLE NEORPTFARADM_EKT.",
+			"CREATE TABLE NEORPTFARADM_EKT.",
+			"Insert into NEORPTFARADM_EKT.",
+			"UPDATE ON NEORPTFARADM_EKT.",
+			"ALTER TABLE NEORPTFARADM_EKT.",
+			"CREATE TABLE NEORPTFARADM_EKT.",
+			"GRANT SELECT ON NEORPTFARADM_EKT.",
+			"CREATE SEQUENCE NEORPTFARADM_EKT.",
+			"NEORPTFARUSR_EKT",
+			"vm",
+			"192.168.42.76",
+			"CLB229628-BA",
+			" ",
+			"V_TOTAL_CONTRATOS",
+			":RPTDATAFINAL",
+			":RPTDATAINICIAL",
+			" ",
+			"FISC_ADM.",
+			"baseJsonUrl"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "frontend.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Users\\CLB151750\\Desktop\\AngularTest\\lib\\nodeJS\\app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

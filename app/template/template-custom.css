@@ -1,0 +1,19 @@
+html {
+  background-color: #ecf0f5;
+}
+
+.main-footer {
+  position: fixed;
+  bottom:0px;
+  width:100%;
+}
+
+.loading {
+	padding-top: 10%; 
+	padding-left: 50%; 
+	margin-bottom: 0%;
+}
+
+#toast-container {
+  top: 70px;
+}
